@@ -1,1 +1,1 @@
-Einfache STudentenverwaltung in Java
+Einfache Studentenverwaltung durch Java
